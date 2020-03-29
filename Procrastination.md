@@ -25,9 +25,21 @@ The massive success of this game created a massive influx of copycat clones whic
 learn more about in this Youtube video about
 [io Games and The Rise of Fake Multiplayer](https://www.youtube.com/watch?v=YCqnD40Q5T8&t=29s)
 
-## Here is a list of .io games that I have found interesting
+### Here is a list of .io games that I have found interesting
 
 - [Agar.io](https://www.agar.io/#ffa)
 - [Mope.io](https://mope.io/)
 - [Hole.io](https://hole-io.com/)
   - This game is a direct clone of [donut country](http://donutcounty.com/) (*note that this game does not run in a browser.)
+
+### Create your own .io game using javascript and html
+
+If you haven't heard of [Daniel Shiffman](https://shiffman.net/) the author of
+[The Nature of Code: Simulating Natural Systems with Processing](https://natureofcode.com/)
+and his Youtube channel [The Coding Train](https://thecodingtrain.com/) you should defiantly check him out.
+
+[Daniel Shiffman](https://shiffman.net/) has created a [agar.io](https://www.agar.io/#ffa) clone on his 
+[Youtube channel](https://www.youtube.com/watch?v=JXuxYMGe4KI). This series contains two parts:
+
+1. [Coding Challenge #32.1: Agar.io - Part 1 (Basic Game Mechanics)](https://www.youtube.com/watch?v=JXuxYMGe4KI)
+2. [Coding Challenge #32.2: Agar.io - Part 2 (Networking with Socket.IO and Node.js)](https://www.youtube.com/watch?v=ZjVyKXp9hec)
